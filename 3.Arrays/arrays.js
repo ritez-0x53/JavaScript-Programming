@@ -59,3 +59,8 @@ console.log(fruits.includes("pineapple"));
 // forEach(callback): Executes a function for each element.
 fruits.forEach((fr)=>console.log(fr));
 
+// Sorting and Reversing Arrays
+console.log(fruits.sort());
+console.log(fruits.reverse());
+console.log(fruits);
+
